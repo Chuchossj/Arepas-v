@@ -1,0 +1,56 @@
+[
+  {
+    "name": "queso",
+    "url": "https://i.ytimg.com/vi/AJu0gRFsBrs/maxresdefault.jpg",
+    "local": true
+  },
+  {
+    "name": "chorizo",
+    "url": "https://thumbs.dreamstime.com/b/deliciosas-arepas-rellenas-de-chorizo-salchichas-tocino-y-queso-presentados-en-un-plato-negro-205341835.jpg",
+    "local": true
+  },
+  {
+    "name": "pollo",
+    "url": "https://quierocuidarme.dkv.es/sites/default/files/migrate/QWHSUtTBPYjEYEvnj3KyRvEaRjfDNAxycySQFMQanBg.jpeg",
+    "local": true
+  },
+  {
+    "name": "carne",
+    "url": "https://img.cocinarico.es/2021-01/arepa-con-carne-desmechada-1.jpg",
+    "local": true
+  },
+  {
+    "name": "chicharron",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBJHNbapYfsvs2n0eLsKcThIw9mRl3U30Qfw&s",
+    "local": true
+  },
+  {
+    "name": "combinada",
+    "url": "https://mui.kitchen/__export/1610683363095/sites/muikitchen/img/2021/01/15/8_arepa_3.jpg_916738657.jpg",
+    "local": false,
+    "fallback": "food2",
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "name": "todo",
+    "url": "https://www.elespectador.com/resizer/80iIqXHKzNysJb1p-YLFFD6Pbyc=/920x613/filters:quality(60):format(jpeg)/cloudfront-us-east-1.images.arcpublishing.com/elespectador/ZVT27NKSWFGLDCRYQ4KVQ2ZHMU.jpg",
+    "local": false,
+    "fallback": "food2",
+    "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
+  },
+  {
+    "name": "vegana",
+    "url": "https://hazlovegan.com/wp-content/uploads/2021/03/arepas-venezolanas-veganas-8.jpg",
+    "local": true
+  },
+  {
+    "name": "vegetariana",
+    "url": "https://i.pinimg.com/736x/cf/23/60/cf236056350d2ff98275f80379b1c093.jpg",
+    "local": true
+  },
+  {
+    "name": "vegetales",
+    "url": "https://tse2.mm.bing.net/th?id=OIP.OJLZ8IsIs4c9Mr4xN6WZigHaHK&pid=Api",
+    "local": true
+  }
+]
